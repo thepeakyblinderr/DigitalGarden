@@ -1,0 +1,4 @@
+
+Infection of imitation moves along the caste system like the half life graph where y-axis of half-life represents benefit. On the top of hhierarchy are benefited the most and most privileged. In this system there is no one who isn't *benefited*. Even the low are more priviledged than lower. brahmins are more privlidged than kshatryias , kshatriyas more than vaishyas...and so on. But truly unprivileged are the lowest, the shudras. Excpet lowest everybody wants to maintain this strucure because every other is getting benefited . every other is getting sense of superiority. So we can say in one way or other everybody has a little brahminism in their blood because of this it is really difficult to tell *who are victims are who are oppressor *
+
+> Brahminism, Ambedkar said, “is the very negation of the spirit of Liberty, Equality and Fraternity”

@@ -1,0 +1,2 @@
+Everything is being recorded. nobody escapes. Your problem can become a problem of nation
+[[Social Media]] make people feel that everything that's happening around them is their responsibility that puts too much pressure on an individual which disrupts his own personal life

@@ -1,0 +1,2 @@
+- Bank
+- I can use Google map to map out the whole town for better storytelling

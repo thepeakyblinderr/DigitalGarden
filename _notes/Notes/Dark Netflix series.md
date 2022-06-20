@@ -1,0 +1,4 @@
+[[arthur schopenhauer]] 
+#Nihilism
+
+---

@@ -1,0 +1,2 @@
+Two main abilities of human - physical and cognitive
+even though machines replaced physical one humans had upper edge with cognitive but due [[The challenge of technological advancement| technological advancement ]] like AI and machine learning humans seem to lose their grip over cognitive dominance 

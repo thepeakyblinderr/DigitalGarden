@@ -1,0 +1,2 @@
+- Notes taken while reading 
+	- Write reference , author name , related to 

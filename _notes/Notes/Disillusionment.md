@@ -1,0 +1,2 @@
+[[Fascism]] --> [[Communism]] --> [[Liberalism]]
+
