@@ -1,0 +1,4 @@
+- having a dream and someone woke me up
+- I am recording a on my phone as I tell the story 
+- After 7 nobody stays near Lake...only me ... because my friend died in the lake it was my fault that you died
+- while going on job , a guy used to polish my boots but one day I look for him only to find out he is dead and nobody knows , I wish where he was

@@ -1,0 +1,2 @@
+- take integer value
+-  like  0,1,2.... , people in ER , 

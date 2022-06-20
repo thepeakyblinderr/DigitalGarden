@@ -1,0 +1,5 @@
+- study of efficiency of algorithm
+- time taken to execute algorithm grows with increase in *size of input*
+- ![[Pasted image 20220510150124.png]]
+- 1st - i need to send my friend 5mb file and now 5 gb file time will be more
+- 2nd - i want 5gb file I'll go to his home and copy in harddisk even if file size increases time will almost be same(constant time)

@@ -1,1 +1,0 @@
-http://www.otoons.com/osho/askosho_u.g.krishnamurti.htm#sthash.F3fOcVNH.dpbs

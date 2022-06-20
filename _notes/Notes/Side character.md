@@ -1,0 +1,4 @@
+- A guy comes sit besides me ...every night I go to park and talks to me and tell about my day
+-  who helps me always but not in a very kind way
+- always mean to me
+- a character who always make decision by flipping a coin when in dilema

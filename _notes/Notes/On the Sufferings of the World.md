@@ -1,3 +1,0 @@
-%% #FleetingNote %%
-
-[[arthur schopenhauer]]

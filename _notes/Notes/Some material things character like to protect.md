@@ -1,2 +1,0 @@
-- a locket
-- a book

@@ -1,1 +1,0 @@
-[[Yukio Mishima]]

@@ -1,0 +1,2 @@
+- similar to [[Array]]
+- song plays after one another in playlist

@@ -1,0 +1,3 @@
+- Goal is to add up to largest number without going over 21
+- Jack, Queen and king each has 10 points
+- Ace card can count as 1 or 11

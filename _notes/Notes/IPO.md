@@ -1,1 +1,0 @@
-__initial public offering__

@@ -1,0 +1,2 @@
+- Assigning people and tell *half of them to smoke* and other *half to not smoke*
+- Ethical issue

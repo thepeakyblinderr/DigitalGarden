@@ -1,0 +1,2 @@
+-  for them the food matters , for them the life matters
+- While way back everything seemed mechanical their smiles their gesture

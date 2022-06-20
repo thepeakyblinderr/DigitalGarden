@@ -1,3 +1,0 @@
-[[HOME]]
-
-## [[ Stock Market course]]

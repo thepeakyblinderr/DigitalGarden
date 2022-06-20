@@ -1,0 +1,6 @@
+# [[Using loops for python list]]
+# [[Aveage  height]]
+# [[High Score]]
+# [[for loops and the range() function]]
+# [[Fizzbuzz game]]
+# [[Password generator]]

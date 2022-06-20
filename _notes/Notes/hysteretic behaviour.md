@@ -1,0 +1,1 @@
+cracks are formed and closed due to cyclic loading

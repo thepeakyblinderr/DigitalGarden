@@ -1,0 +1,5 @@
+- oxidation happens which results in expansion
+- galvanization
+	- applied tin hence instead of iron tinis oxidised
+	- basically applying other material layer on iron
+- painting

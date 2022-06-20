@@ -1,0 +1,6 @@
+- Depressed , wanting to help everyone , wears glasses
+- Saved a bird - introduction of a character
+- afraid of their parents somehow fights them
+- guy who has a belief that when he wears his hat then only he can think and make proper decision he is almost incapable of doing anything if he doesn't have his hat on him.
+- a guy is schrizophenic he talks to his little brother always but his parents never tell him because he had a brother once and he died as soon as he was born and that guy created image of him in his mind so not to break his heart his parent took part in this illusion
+- a little old lady who owns a shop and very sweet

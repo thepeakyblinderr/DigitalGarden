@@ -1,3 +1,0 @@
-- Known as National fifty
-- Weighted average of 50 companies from different sectors
-- base value is 1000
