@@ -1,2 +1,0 @@
-knows as ADT
-[[Array]]

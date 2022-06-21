@@ -1,3 +1,0 @@
-# [[statistical inference]]
-
-

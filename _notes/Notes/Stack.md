@@ -1,4 +1,0 @@
-- last in , first out 
-- ex . we open browser then google then youtube and start watching video, if i click back I'll go the *last* page which is googel
-- opposite of [[Queue]]
-- 

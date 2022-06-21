@@ -1,7 +1,0 @@
-# [[How to break a Complex Problem down into a Flow Chart]]
-# [[Challenge 1 - Picking a random word and checking answer]]
-# [[Challenge 2 - How to Replace the Blanks]]
-# [[ Challenge 3 - How to Check if the Player Won]]
-# [[Challenge 4 - Keeping Track of the Player's Lives]]
-# [[Challenge 5 - Improving the User Experience]]
-# [[Final]]

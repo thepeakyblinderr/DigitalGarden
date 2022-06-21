@@ -1,3 +1,0 @@
-[[Disillusionment]] 
-[[Religion]]
-#religion

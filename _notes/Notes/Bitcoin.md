@@ -1,2 +1,0 @@
-Taxes are generally on national currency but bitcoin is not national currency of any nation so It can't be taxed. So due to rise in crypto currency it will become difficult for government to function
-[[Disillusionment]]

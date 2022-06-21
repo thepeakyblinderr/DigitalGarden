@@ -1,7 +1,0 @@
-- Play computer and evaluate each line
-- give input yourself to and check the program yourself
-- Use print() to squash the bugs
-- https://pythontutor.com/visualize.html#mode=edit
-	- To debug line by line just like thonnny
-- Run code often don't wait till your whole code is complete
-- The bigger your bugs are more professional coding you are doing

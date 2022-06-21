@@ -1,7 +1,0 @@
-# [[Function with inputs]]
-# [[Positional vs. Keyword Argument]]
-# [[Paint Area Calculator]]
-# [[Prime Number Checker]]
-# [[Caesar Cipher Part 1 - Encryption]]
-# [[Caesar Cipher Part 3 - Reorganising our Code]]
-# [[ end code]]

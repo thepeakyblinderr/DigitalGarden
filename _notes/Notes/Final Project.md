@@ -1,1 +1,0 @@
-Visit this after reaching to **Day 15**

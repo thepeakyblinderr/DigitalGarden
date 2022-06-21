@@ -1,1 +1,0 @@
-- [[Introduction to statistics]] by standford university

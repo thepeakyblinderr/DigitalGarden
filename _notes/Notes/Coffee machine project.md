@@ -1,3 +1,0 @@
-![[american types of coin]]
-
-

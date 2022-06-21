@@ -1,2 +1,0 @@
-Percentile
-Quartile

@@ -1,5 +1,0 @@
-# [[Python Dictionary real]]
-# [[Grading Program]]
-# [[Nesting Lists and Dictionaries]]
-# [[Dictionary in List]]
-# [[The Secret Auction Program Instructions and Flow Chart]]

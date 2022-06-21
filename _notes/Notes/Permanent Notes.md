@@ -1,1 +1,0 @@
-Atomtization of thought
